@@ -3,6 +3,6 @@
 
 * 🎓 I’m currently pursuing my master degree in SJTU.
 * 🌱 I’m currently learning federated learning and incentive mechanism.
-* 🖥️ I’m currently spending my spare time maintaining my personal (blog)["https://ifarewell.xyz"].
+* 🖥️ I’m currently spending my spare time maintaining my personal [blog]("https://ifarewell.xyz").
 * 💪 I’m currently trying to lose weight through exercise.
 * 💬 Ask me about everything but no answer is promised.
