@@ -9,3 +9,7 @@
 * 🖥️ Maintaining my personal [blog]("https://ifarewell.xyz").
 * 💪 Trying to lose weight through exercise.
 * 💬 Ask me about everything but no answer is promised.
+
+***
+ <!-- waka-box start -->
+ <!-- waka-box end -->
