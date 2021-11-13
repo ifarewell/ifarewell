@@ -1,5 +1,4 @@
 <h2 align="center"> Hi, this is Lu Zhao 👋</h2>
-<hr>
 <!-- <img src="https://img.shields.io/github/stars/ifarewell?style=social" alt="Github stars" />
 <img src="https://img.shields.io/github/followers/ifarewell?style=social" alt="Github followers" /> -->
 
