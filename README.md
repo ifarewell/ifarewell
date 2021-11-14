@@ -9,7 +9,7 @@
         <td>
             <li>🎓 Pursuing my master degree in SJTU.</li>
             <li>🌱 Reseaching on federated learning.</li>
-            <li>🖥️ Maintaining my personal [blog]("https://ifarewell.xyz").</li>
+            <li>🖥️ Maintaining my <a href="https://ifarewell.xyz">personal blog</a>.</li>
             <li>💪 Trying to lose weight.</li>
             <li>💬 Questions are welcomed but no answer is promised.</li> 
         </td>
@@ -21,25 +21,8 @@
     </tr>
     <tr>
         <td colspan="2">
+
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-HTML                     34 mins             ████████████████████████░   98.45% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
-
-🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  35 mins             █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 13/11/2021
 <!--END_SECTION:waka-->
 </td><tr>
 </table>
