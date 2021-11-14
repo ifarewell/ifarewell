@@ -18,12 +18,12 @@
         <br>
           <img src="https://github-readme-stats.vercel.app/api?username=ifarewell&theme=graywhite&hide=prs,contribs&show_icons=true&hide_border=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
         </td> -->
-    </tr>
+<!--     </tr>
     <tr>
         <td colspan="2">
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</td><tr>
+</td><tr> -->
 </table>
 
