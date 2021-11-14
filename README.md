@@ -4,7 +4,7 @@
 
 
 
-<table align="center">
+<table>
     <tr> 
         <td>
             <li>🎓 Pursuing my master degree in SJTU.</li>
@@ -20,7 +20,7 @@
         </td>
     </tr>
     <tr>
-        <td colspan="2">
+        <td colspan="2" align="center">
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
