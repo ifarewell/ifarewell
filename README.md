@@ -4,7 +4,7 @@
 
 
 
-<table style="overflow:hidden">
+<table style="overflow:hidden;">
     <tr> 
         <td>
             <li>🎓 Pursuing my master degree in SJTU.</li>
