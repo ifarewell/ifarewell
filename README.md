@@ -17,6 +17,7 @@
     </tr>
     <tr>
         <td colspan="2">
+            
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -37,7 +38,7 @@ Windows                  35 mins             ███████████�
 
  Last Updated on 14/11/2021
 <!--END_SECTION:waka-->
-        </td>
-    </tr>
+            
+</td></tr>
 </table>
 
