@@ -1,8 +1,4 @@
 <h2 align="center"> Hi, this is Lu Zhao 👋</h2>
-<!-- <img src="https://img.shields.io/github/stars/ifarewell?style=social" alt="Github stars" />
-<img src="https://img.shields.io/github/followers/ifarewell?style=social" alt="Github followers" /> -->
-
-
 
 <table style="overflow:hidden;">
     <tr> 
