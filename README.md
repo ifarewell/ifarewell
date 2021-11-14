@@ -1,4 +1,4 @@
-<h2 align="center"> Hi, this is Lu Zhao 👋</h2>
+<h2 align="center"> Hi, this is Zhao Lu 👋</h2>
 
 <table style="overflow:hidden;">
     <tr> 
