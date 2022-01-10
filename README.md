@@ -19,24 +19,22 @@
         <td colspan="2">
             
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2027%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 27 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Word                     1 hr 27 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 27 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 09/01/2022
+ Last Updated on 10/01/2022
 <!--END_SECTION:waka-->
             
 </td></tr>
