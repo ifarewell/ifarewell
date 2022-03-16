@@ -19,7 +19,7 @@
         <td colspan="2">
             
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2018%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -40,7 +40,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 16/03/2022 13:51:56 UTC
+ Last Updated on 16/03/2022 13:53:32 UTC
 <!--END_SECTION:waka-->
             
 </td></tr>
